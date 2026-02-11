@@ -103,3 +103,5 @@ Predicted Math Score: 78.56
 ---
 
 **Author:** Banoth Anusha
+IIT Goa
+CSE
