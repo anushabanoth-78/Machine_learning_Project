@@ -4,7 +4,7 @@ This project is a Flask-based Machine Learning web application that predicts a s
 
 ---
 
-## 🚀 Features
+## Features
 - Takes user input via a web form
 - Preprocesses data using a saved preprocessor object
 - Uses the best trained ML model for prediction
@@ -12,7 +12,7 @@ This project is a Flask-based Machine Learning web application that predicts a s
 
 ---
 
-## 📥 Input Parameters
+##  Input Parameters
 
 The app takes the following inputs from the user:
 
@@ -30,7 +30,7 @@ The app takes the following inputs from the user:
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
 1. **Train and Save Model**
    - Run the following file to train and test the model:
@@ -59,7 +59,7 @@ The app takes the following inputs from the user:
 
 ---
 
-## 🛠 Setup Instructions
+##   Setup Instructions
 
 1. **Create Virtual Environment**
    ```bash
@@ -88,7 +88,7 @@ The app takes the following inputs from the user:
 
 ---
 
-## 📊 Example Output
+##  Example Output
 Once prediction is made, you’ll see:
 ```
 Predicted Math Score: 78.56
@@ -96,7 +96,7 @@ Predicted Math Score: 78.56
 
 ---
 
-## 📌 Notes
+##   Notes
 - Ensure `.pkl` files (model & preprocessor) are in the `artifacts/` folder before running the Flask app.
 - Make sure all dependencies are installed before execution.
 
