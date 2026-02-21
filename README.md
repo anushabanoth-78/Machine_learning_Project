@@ -1,4 +1,4 @@
-# Machine Learning Project - Student Math Score Prediction
+# Machine Learning Project - Students Math Score Prediction
 
 This project is a Flask-based Machine Learning web application that predicts a student's **Math Score** based on various input parameters provided by the user.
 
