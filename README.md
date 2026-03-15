@@ -1,47 +1,4 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Machine Learning Project - Students Math Score Prediction</title>
-
-<style>
-body{
-    font-family: Arial, sans-serif;
-    margin:40px;
-    line-height:1.6;
-    background:#f7f7f7;
-}
-
-h1,h2{
-    color:#2c3e50;
-}
-
-table{
-    border-collapse: collapse;
-    width:80%;
-    background:white;
-}
-
-th,td{
-    border:1px solid #ccc;
-    padding:8px;
-    text-align:left;
-}
-
-th{
-    background:#eaeaea;
-}
-
-code{
-    background:#eee;
-    padding:3px 6px;
-}
-
-pre{
-    background:#eee;
-    padding:10px;
-}
-</style>
 </head>
 
 <body>
